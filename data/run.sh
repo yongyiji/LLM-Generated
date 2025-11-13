@@ -2,10 +2,10 @@
 set -euo pipefail
 
 # ===== REQUIRED: Path to your classify_repo_files.py script =====
-CLASSIFIER="/scratch/nlp/shared/repository_result_yj/download_new.py"
+CLASSIFIER="download.py"
 
 # ===== Output root directory: Only preprocessing results are saved (source code is NOT retained) =====
-OUT_ROOT="/scratch/nlp/shared/repository_new"
+OUT_ROOT=""
 
 # ===== Base temporary directory (use large disk space; will be cleaned automatically) =====
 BASE_TMP="${TMPDIR:-/tmp}"
