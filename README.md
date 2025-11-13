@@ -13,8 +13,7 @@ Please refer to the **`data/`** directory for downloading the required repositor
 ## Code Detection
 For detecting code, please refer to:
 
-🔗 **DetectCodeGPT**  
-https://github.com/YerbaPage/DetectCodeGPT/tree/main
+- [DetectCodeGPT](https://github.com/YerbaPage/DetectCodeGPT)
 
 The repository includes:
 
@@ -24,13 +23,20 @@ The repository includes:
 ## Comment Detection
 For detecting comments, please refer to:
 
-🔗 **DetectRL**  
-https://github.com/NLP2CT/DetectRL
+- [DetectRL](https://github.com/NLP2CT/DetectRL)
 
 This repository provides:
 
 - Benchmark Construction
 - Different Detectors
+
+
+## Code Clone Detection
+For detecting code clone, please refer to:
+
+- [CCFinderX](https://github.com/gpoo/ccfinderx)
+- [GPTCloneBench](https://github.com/srlabUsask/GPTCloneBench)
+
 
 ## Project Structure
 ```text
@@ -49,3 +55,5 @@ This project references and builds upon:
 
 - [DetectCodeGPT](https://github.com/YerbaPage/DetectCodeGPT)
 - [DetectRL](https://github.com/NLP2CT/DetectRL)
+- [CCFinderX](https://github.com/gpoo/ccfinderx)
+- [GPTCloneBench](https://github.com/srlabUsask/GPTCloneBench)
