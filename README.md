@@ -33,10 +33,12 @@ This repository provides:
 - Different Detectors
 
 ## Project Structure
+```text
 project-root/
 │
-├── data/ # Repositories download instructions
+├── data/        # Repositories download instructions
 └── README.md
+
 
 
 
