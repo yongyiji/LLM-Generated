@@ -31,6 +31,16 @@ This repository provides:
 - Different Detectors
 
 
+## Bug Detection
+For detecting bugs, we used labelled bugs in InferredBug dataset:
+
+- [InferredBug](https://github.com/microsoft/InferredBugs)
+
+This repository provides:
+
+- Labelled bugs with corrected version
+
+
 ## Code Clone Detection
 For detecting code clone, please refer to:
 
@@ -58,3 +68,4 @@ This project references and builds upon:
 - [DetectRL](https://github.com/NLP2CT/DetectRL)
 - [CCFinderX](https://github.com/gpoo/ccfinderx)
 - [GPTCloneBench](https://github.com/srlabUsask/GPTCloneBench)
+- [InferredBug](https://github.com/microsoft/InferredBugs)
